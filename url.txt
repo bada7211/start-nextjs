@@ -1,0 +1,4 @@
+https://nextjs.org
+https://mui.com/ 
+materio https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free
+https://github.com/egoing/nextjs-tutorial-src/commit/2289b14d3a1eda99056fed290d7e56e898beed41
